@@ -1,1 +1,1 @@
-# My name is Tyler and I am a new software developer.
+# My name is Tyler! Welcome to my GitHub portfolio.
